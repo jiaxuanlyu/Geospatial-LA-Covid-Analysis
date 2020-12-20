@@ -16,10 +16,10 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "MUSA 550: Geospatial Data Science in Python"
+title: "Fianl Project of Geospatial Data Science in Python: Analyzing Covid Impacts in Los Angeles"
 title_separator: "-"
 name: "Jiaxuan Lyu"
-description: "Displaying cool data visualizations"
+description: "Data visualizations to demonstrate covid impacts in Los Angeles."
 url: https://jiaxuanlyu.github.io
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: Geospatial-LA-Covid-Analysis
