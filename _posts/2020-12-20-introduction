@@ -1,0 +1,21 @@
+---
+title: "Introduction"
+date: 2020-12-20
+published: true
+tags: [dataviz, folium]
+excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
+folium-loader:
+  folium-chart-1: ["charts/foliumChart.html", "400"] # second argument is the height
+  folium-chart-2: ["charts/percent_no_internet.html", "400"] # second argument is the height
+toc: true
+toc_sticky: true
+---
+
+# Introduction
+
+A new coronavirus (called SARS-CoV-2), which generate symptoms such as fever, cough, trouble breathing, diarrhea and etc. (CDC, 2020) brought lots of changes to people’s daily lives. In order to alleviate the spread of COVID, the World Health Organization suggests people to wear masks and keep social distance (WHO, 2020). At March 11, 2020, the first death case of Coronavirus was reported in Los Angeles (Kandel, 2020). Few days later, LA County ordered the closure of bars and gyms. Meanwhile, LAUSD (Los Angeles Unified School District) announced the closure of schools (Kandel, 2020). More and more amenities were closed during the following days.
+
+The shortest route between the Art Museum and the Liberty Bell:
+
+<div id="folium-chart-1"></div>
+
