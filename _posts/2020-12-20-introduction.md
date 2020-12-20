@@ -5,7 +5,7 @@ published: true
 tags: [dataviz, folium]
 excerpt: "Introduction."
 folium-loader:
-  folium-chart-1: ["charts/foliumChart.html", "600"] # second argument is the height
+  folium-chart-1: ["charts/covid.html", "500"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
