@@ -105,14 +105,14 @@ analytics:
 
 # Site Author
 author:
-  name: "Nick Hand"
+  name: "Jiaxuan Lyu"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
+  bio: "Master of Urban Spatial Analytics, University of Pennsylvania"
   location: "Philadelphia"
   email:
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "jiaxuan@upenn.edu"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
