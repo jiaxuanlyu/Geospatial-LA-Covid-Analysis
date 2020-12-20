@@ -25,6 +25,8 @@ As background information, the accumulated COVID cases is visualized by using `F
 
 ### Method
 
+The jupyter notebook of the process is also uploaded is GitHub repository.
+
 ```python
 #set up
 from matplotlib import pyplot as plt
@@ -71,6 +73,7 @@ LA_joined_sel.columns = ["Community Name", "Covid Cases", "normalized_covid", "g
 #change to json file
 covid_json = LA_joined_sel.to_json()
 ```
+After loading the data, the covid cases are also normalized to show in the color scheme. Later, the geodataframe is converted to geojson data, which is visualized by using folium.
 ```
 ##Folium Map
 
