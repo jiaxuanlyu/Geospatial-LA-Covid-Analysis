@@ -5,12 +5,12 @@ published: true
 tags: [dataviz, folium]
 excerpt: "Introduction."
 folium-loader:
-  folium-chart-1: ["charts/foliumChart.html", "400"] # second argument is the height
+  folium-chart-1: ["charts/foliumChart.html", "600"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
 
-## Introduction
+## Background
 
 A new coronavirus (called SARS-CoV-2), which generate symptoms such as fever, cough, trouble breathing, diarrhea and etc. <a href="https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html">(CDC, 2020)</a> brought lots of changes to people’s daily lives. In order to alleviate the spread of COVID, the World Health Organization suggests people to wear masks and keep social distance <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public">(WHO, 2020)</a>. At March 11, 2020, the first death case of Coronavirus was reported in Los Angeles <a href="https://www.nbclosangeles.com/news/local/a-coronavirus-timeline/2334100/">(Kandel, 2020)</a>. Few days later, LA County ordered the closure of bars and gyms. Meanwhile, LAUSD (Los Angeles Unified School District) announced the closure of schools <a href="https://www.nbclosangeles.com/news/local/a-coronavirus-timeline/2334100/">(Kandel, 2020)</a>. More and more amenities were closed during the following days.
 <br>
