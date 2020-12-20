@@ -5,7 +5,7 @@ published: true
 tags: [dataviz, folium]
 excerpt: "Introduction."
 folium-loader:
-  folium-chart-1: ["charts/covid.html", "500"] # second argument is the height
+  folium-chart-1: ["charts/covid.html", "550"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
@@ -20,3 +20,7 @@ As background information, the accumulated COVID cases is visualized by using `F
 
 <div id="folium-chart-1"></div>
 
+
+<br>
+
+### Method
