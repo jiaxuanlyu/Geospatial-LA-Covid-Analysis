@@ -13,15 +13,21 @@ toc: true
 toc_sticky: true
 ---
 
-This post will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
+Pollutions like NO2 and PM2.5 are related to vehicle emissions. I would like to see whether the concentrations of pollutants change during the early stage of COVID period in Los Angeles. Because the shutdown policy started at the middle of March in Los Angeles, I compare the pollutants’ data in both March and April.
+<br>
 
 ## PM 2.5 Comparison: March
 
 <div id="altair-chart-1"></div>
 
+
+From the PM2.5 concentration comparison in March, we could see that the daily mean PM2.5 concentration is lower in year 2020, especially after 16th. However, there is a peak around 29th, and then the concentration in year 2020 becomes higher and is very close to that in year 2019.
+
 ## PM 2.5 Comparison: April
 
 <div id="altair-chart-2"></div>
+
+From the PM2.t concentration comparison in April, there is no clear trend that whether the concentration of pollutant become lower in year 2020.
 
 ## NO2 Comparison: March
 
