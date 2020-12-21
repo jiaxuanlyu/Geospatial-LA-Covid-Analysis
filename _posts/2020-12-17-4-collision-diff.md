@@ -5,8 +5,8 @@ published: true
 tags: [dataviz, altair]
 excerpt: "Visualize differences of traffic collisions by using altair."
 altair-loader:
-  altair-chart-5: "charts/collision19.png"
-  altair-chart-6: "charts/collision20.png"
+  altair-chart-5: "charts/collision19_plot.json"
+  altair-chart-6: "charts/collision20_plot.json"
 toc: true
 toc_sticky: true
 ---
@@ -15,9 +15,13 @@ This post will show examples of embedding interactive charts produced using [Alt
 
 ## Traffic Collisions in March, 2019
 
+<div id="altair-chart-5"></div>
+
 ![daily-mean-diff]({{ site.url }}{{ site.baseurl }}/charts/collision19.png)
 
 ## Traffic Collisions in March, 2020
+
+<div id="altair-chart-6"></div>
 
 ![daily-mean-diff]({{ site.url }}{{ site.baseurl }}/charts/collision20.png)
 
