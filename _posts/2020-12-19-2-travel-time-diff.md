@@ -28,3 +28,9 @@ From the figure, the daily mean travel time differences vary from +5 minutes to 
 Mean travel time at AM rush period in March 2019 and March 2020 are also compared.
 
 ![daily-mean-diff]({{ site.url }}{{ site.baseurl }}/assets/images/amdiff.png)
+
+<br>
+From the figure, the time differences vary from around less than +15 minutes to -20 minutes. The range of differences becomes larger. Furthermore, more census tracks have decreased more than 10 minutes of traveling time, and less census tracks have increased travel time. However, a few areas have much higher increase of time.
+<br>
+
+## Travel Time Difference at PM Rush
