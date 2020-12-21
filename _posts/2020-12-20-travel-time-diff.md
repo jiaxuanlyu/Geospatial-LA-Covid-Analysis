@@ -8,6 +8,7 @@ folium-loader:
   folium-chart-1: ["charts/foliumChart.html", "400"] # second argument is the height
 toc: true
 toc_sticky: true
+read_time: false
 ---
 
 ## Uber Travel Time difference
