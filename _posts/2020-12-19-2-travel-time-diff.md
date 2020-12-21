@@ -17,4 +17,4 @@ Because the most recent Uber Movements data are in March 2020, I choose to make 
 <br>
 At first, I change the travel time from seconds to minutes. Tables of year 2019 and year 2020 are merged later to calculate travel time differences. Aiming to obtain geometries of the Uber data which is grouped by census tracks, I use cenpy and extract geometries from American Community Survey data. After merging the geometries to Uber data, the data are visualized by using matplotlib.
 
-![daily-mean-diff]({{ site.url }}{{ site.baseurl }}/assets/images/meandiff.png)
+![daily-mean-diff]({{ site.url }}{{ site.baseurl }}/assets/images/meandiff.png=300x300)
