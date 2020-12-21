@@ -5,8 +5,8 @@ published: true
 tags: [dataviz, altair]
 excerpt: "Visualize differences of traffic collisions by using altair."
 altair-loader:
-  altair-chart-1: ["charts/collision19_plot.html", "700"]
-  altair-chart-2: ["charts/collision20_plot.html", "700"]
+  altair-chart-1: ["charts/collision19_plot.html", "600"]
+  altair-chart-2: ["charts/collision20_plot.html", "600"]
 toc: true
 toc_sticky: true
 ---
