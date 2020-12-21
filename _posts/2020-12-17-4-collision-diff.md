@@ -25,4 +25,4 @@ Below is a chart of the incidence of measles since 1928 for the 50 US states.
 <div id="altair-chart-6"></div>
 
 [Figure](https://htmlpreview.github.io/?https://github.com/jiaxuanlyu/Geospatial-LA-Covid-Analysis/blob/master/charts/collision20_plot.html)
-
+[Figure2](https://github.com/jiaxuanlyu/Geospatial-LA-Covid-Analysis/blob/master/charts/collision20_plot.html)
