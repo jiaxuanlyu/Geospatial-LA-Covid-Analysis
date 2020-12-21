@@ -34,3 +34,7 @@ From the figure, the time differences vary from around less than +15 minutes to 
 <br>
 
 ## Travel Time Difference at PM Rush
+
+Similarly, mean travel time at PM rush period in March 2019 and March 2020 are compared.
+
+![daily-mean-diff]({{ site.url }}{{ site.baseurl }}/assets/images/pmdiff.png)
