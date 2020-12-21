@@ -5,7 +5,7 @@ published: true
 tags: [dataviz, altair]
 excerpt: "Analyze air pollution differences by using altair."
 altair-loader:
-  altair-chart-1: "charts/pm_com.html"
+  altair-chart-1: "charts/pm_com.json"
 toc: true
 toc_sticky: true
 ---
