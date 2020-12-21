@@ -1,6 +1,6 @@
 ---
 title: "Analysis: Traffic Collision Difference"
-date: 2019-04-13
+date: 2020-12-20
 published: true
 tags: [dataviz, altair]
 excerpt: "Visualize differences of traffic collisions by using altair."
