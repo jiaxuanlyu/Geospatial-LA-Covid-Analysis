@@ -4,8 +4,6 @@ date: 2020-12-20
 published: true
 tags: [dataviz, matplotlib]
 excerpt: "Visualize Uber Travel Time differences by using matplotlib."
-folium-loader:
-  folium-chart-1: ["charts/foliumChart.html", "400"] # second argument is the height
 toc: true
 toc_sticky: true
 read_time: false
@@ -17,4 +15,4 @@ Holding an idea that traveling time is an indicator of people’s activities, I 
 <br>
 Because the most recent Uber Movements data are in March 2020, I choose to make the comparison between March 2020 and March 2019. Moreover, I would like to see the differences of mean daily travel time, mean am rush travel time and mean pm rush travel time.
 
-<div id="folium-chart-1"></div>
+![distances-abandoned-cars]({{ site.url }}{{ site.baseurl }}/assets/images/distance_to_abandoned_cars.png)
