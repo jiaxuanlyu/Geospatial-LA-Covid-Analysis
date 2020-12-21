@@ -1,9 +1,9 @@
 ---
-title: "Example: Embedding Folium charts"
-date: 2019-04-13
+title: "Analysis: Travel Time Difference"
+date: 2020-12-20
 published: true
 tags: [dataviz, matplotlib]
-excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
+excerpt: "Visualize Uber Travel Time differences by using matplotlib."
 folium-loader:
   folium-chart-1: ["charts/foliumChart.html", "400"] # second argument is the height
 toc: true
