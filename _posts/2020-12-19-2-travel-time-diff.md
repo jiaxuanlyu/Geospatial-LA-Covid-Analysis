@@ -21,3 +21,10 @@ At first, I change the travel time from seconds to minutes. Tables of year 2019 
 
 <br>
 From the figure, the daily mean travel time differences vary from +5 minutes to -15 minutes. Around the center of the city, compared to March 2019, the travel time increase around five minutes in March 2020. Not a lot of census blocks have decreased more than 10 minutes of traveling time. Based on <a href="https://www.nbclosangeles.com/news/local/a-coronavirus-timeline/2334100/">Kandel, 2020</a>, Los Angeles started to shutdown from the middle of March. Moreover, the data from Uber are aggregated data for one month, which might cause the minor changes in time.
+<br>
+
+## Travel Time Difference at AM Rush
+
+Mean travel time at AM rush period in March 2019 and March 2020 are also compared.
+
+![daily-mean-diff]({{ site.url }}{{ site.baseurl }}/assets/images/amdiff.png)
