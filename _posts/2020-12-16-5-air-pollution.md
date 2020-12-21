@@ -8,6 +8,7 @@ altair-loader:
   altair-chart-1: "charts/pm_com.json"
   altair-chart-2: "charts/pm_apr.json"
   altair-chart-3: "charts/no_mar.json"
+  altair-chart-4: "charts/no_apr.json"
 toc: true
 toc_sticky: true
 ---
@@ -27,3 +28,5 @@ This post will show examples of embedding interactive charts produced using [Alt
 <div id="altair-chart-3"></div>
 
 ## NO2 Comparison: April
+
+<div id="altair-chart-4"></div>
