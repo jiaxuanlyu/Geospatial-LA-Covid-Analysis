@@ -4,8 +4,8 @@ date: 2020-12-20
 published: true
 tags: [dataviz, matplotlib]
 excerpt: "Visualize Uber Travel Time differences by using matplotlib."
-toc: false
-toc_sticky: false
+toc: true
+toc_sticky: true
 read_time: false
 ---
 
