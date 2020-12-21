@@ -20,3 +20,7 @@ The 311 requests data are downloaded from MyLA311 Service Request Data 2019, Los
 ## 311 Requests in March, 2020
 
 <div id="hv-chart-2"></div>
+
+<br>
+<br>
+Same color scheme is applied for both figures. Therefore, we could say that there are fewer 311 requests in March 2020, compared to March 2019. The shutdown policy might decrease people’s activities to some extent, and then decrease the amount of requests.
