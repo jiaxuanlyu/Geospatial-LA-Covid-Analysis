@@ -15,10 +15,7 @@ This post will show examples of embedding interactive charts produced using [Alt
 
 ## Traffic Collisions in March, 2019
 
-Below is a chart of the incidence of measles since 1928 for the 50 US states.
-
-<div id="altair-chart-5"></div>
-
+![daily-mean-diff]({{ site.url }}{{ site.baseurl }}/charts/collision19.png)
 
 ## Traffic Collisions in March, 2020
 
