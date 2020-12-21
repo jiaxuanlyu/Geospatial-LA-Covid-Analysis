@@ -5,8 +5,8 @@ published: true
 tags: [dataviz, altair]
 excerpt: "Visualize differences of traffic collisions by using altair."
 altair-loader:
-  altair-chart-5: "charts/collision19_plot.json"
-  altair-chart-6: "charts/collision20_plot.json"
+  altair-chart-5: "charts/collision19.png"
+  altair-chart-6: "charts/collision20.png"
 toc: true
 toc_sticky: true
 ---
@@ -24,5 +24,4 @@ Below is a chart of the incidence of measles since 1928 for the 50 US states.
 
 <div id="altair-chart-6"></div>
 
-[Figure](https://htmlpreview.github.io/?https://github.com/jiaxuanlyu/Geospatial-LA-Covid-Analysis/blob/master/charts/collision20_plot.html)
-[Figure2](https://github.com/jiaxuanlyu/Geospatial-LA-Covid-Analysis/blob/master/charts/collision20_plot.html)
+
