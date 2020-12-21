@@ -22,6 +22,6 @@ Below is a chart of the incidence of measles since 1928 for the 50 US states.
 
 ## Traffic Collisions in March, 2020
 
-<div id="altair-chart-6"></div>
+![daily-mean-diff]({{ site.url }}{{ site.baseurl }}/charts/collision20.png)
 
 
