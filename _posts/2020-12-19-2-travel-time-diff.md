@@ -42,4 +42,5 @@ Similarly, mean travel time at PM rush period in March 2019 and March 2020 are c
 <br>
 Based on the figure, the time differences vary from +10 minutes to -30 minutes and more. The majority of regions increase the travel time. Areas where have decreased travel time show larger magnitude of change.
 <br>
+<br>
 Overall, about the impacts of COVID on Uber traveling time, there are no clear evidences that the shutdown policy generally decreases travel time. Maybe the aggregated dataset lead to unclear changes because the decrease of time at the later month is not reflected in the data. Or at the early stage of pandemic, the policy does not alter a lot of people’s daily traveling activities.
