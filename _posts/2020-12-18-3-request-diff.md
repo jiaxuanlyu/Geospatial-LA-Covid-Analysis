@@ -11,9 +11,9 @@ toc: true
 toc_sticky: true
 ---
 
-## 311 Requests in March, 2019
+The 311 requests data are downloaded from MyLA311 Service Request Data 2019, Los Angeles Open Data and MyLA311 Service Request Data 2020, Los Angeles Open Data by using API requests. Later, the data are visualized by using `hvplot`.
 
-Lastly, the measles incidence produced using the HvPlot package:
+## 311 Requests in March, 2019
 
 <div id="hv-chart-1"></div>
 
