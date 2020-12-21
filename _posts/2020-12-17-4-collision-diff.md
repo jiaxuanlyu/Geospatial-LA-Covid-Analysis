@@ -5,8 +5,8 @@ published: true
 tags: [dataviz, altair]
 excerpt: "Visualize differences of traffic collisions by using altair."
 altair-loader:
-  altair-chart-1: ["charts/collision19_plot.json"]
-  altair-chart-2: ["charts/collision20_plot.json", "500"]
+  altair-chart-5: "charts/collision19_plot.json"
+  altair-chart-6: "charts/collision20_plot.json"
 toc: true
 toc_sticky: true
 ---
@@ -17,9 +17,9 @@ This post will show examples of embedding interactive charts produced using [Alt
 
 Below is a chart of the incidence of measles since 1928 for the 50 US states.
 
-<div id="altair-chart-1"></div>
+<div id="altair-chart-5"></div>
 
 
 ## Traffic Collisions in March, 2020
 
-<div id="altair-chart-2"></div>
+<div id="altair-chart-6"></div>
