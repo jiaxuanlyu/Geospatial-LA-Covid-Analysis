@@ -11,7 +11,9 @@ toc: true
 toc_sticky: true
 ---
 
-This post will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
+The traffic collision data are obtained from Traffic Collision Data from 2010 to Present, Los Angeles Open Data by using API requests. Later, the data was merged with Los Angeles CSA to gain geometries. The traffic cases were summed up by each geometry point.
+<br>
+<br>
 
 ## Traffic Collisions in March, 2019
 
@@ -26,3 +28,5 @@ This post will show examples of embedding interactive charts produced using [Alt
 ![daily-mean-diff]({{ site.url }}{{ site.baseurl }}/charts/collision20.png)
 
 
+<br>
+From the upper left part of both figures, we could see there are fewer and more discrete traffic collisions. Similarly, at the right downside, points of traffic collisions become fewer and more scatter. Based on the graphs, we could conclude that the traffic collisions are fewer at year 2020. In other words, the COVID and the shutdown lead to decreasing number of traffic collisions to some extent.
