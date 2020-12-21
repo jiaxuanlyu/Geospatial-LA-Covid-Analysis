@@ -36,3 +36,7 @@ From the PM2.t concentration comparison in April, there is no clear trend that w
 ## NO2 Comparison: April
 
 <div id="altair-chart-4"></div>
+
+
+<br>
+The plots of NO2 comparisons in March and in April have irregular trends. Similarly, there is no clear trend that whether the concentration decrease during the COVID period.
