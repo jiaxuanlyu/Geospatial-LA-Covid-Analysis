@@ -9,11 +9,7 @@ toc_sticky: true
 read_time: false
 ---
 
-## Uber Travel Time difference
-
-<br>
-
-### Daily Mean Travel Time Difference
+## Daily Mean Travel Time Difference
 
 Holding an idea that traveling time is an indicator of people’s activities, I would like to know whether the travel time changes during the COVID-period. The data are referenced from <a href=" https://movement.uber.com/?lang=en-US">Uber Movements</a>. 
 <br>
